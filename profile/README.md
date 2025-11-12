@@ -1,12 +1,27 @@
+<p align="center"><a href="https://blog.stevesensei.work" target="_blank" rel="noopener noreferrer"><img width="350" height="350" src="https://i.imgur.com/p7pBCgg.png" alt=""></a></p>
+
+<div align="center">
+
 # NapPlana Project
 
-<!--
+_Yet Another NapCat Framework SDK for .NET_
 
-**Here are some ideas to get you started:**
+_logo artwork by: [芋泥雪糕喵](https://www.mihuashi.com/profiles/155732?role=painter)_
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> 待機中、解決しなければならない作業が多数存在しています。
+
+</div>
+
+# 项目
+
+- [NapPlana.NET](https://github.com/napplana/NapPlana.NET)
+
+  -  基于.NET的NapCat框架开发SDK，为C#下开发QQ机器人提供又一个解决方案
+ 
+  -  API文档部署在[ref.napplana.net](ref.napplana.net)
+
+- [NapPlana.NET-docs](https://github.com/napplana/NapPlana.NET-Docs)
+
+  - NapPlana.NET 文档服务
+  
+  - 已部署在[napplana.net](napplana.net)
