@@ -4,7 +4,7 @@
 
 # NapPlana Project
 
-_Yet Another NapCat Framework SDK for .NET_
+_Yet Another QQ Bot solution enchanted by NapCat Framework_
 
 _logo artwork by: [芋泥雪糕喵](https://www.mihuashi.com/profiles/155732?role=painter)_
 
