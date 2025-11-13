@@ -25,3 +25,9 @@ _logo artwork by: [芋泥雪糕喵](https://www.mihuashi.com/profiles/155732?rol
   - NapPlana.NET 文档服务
   
   - 已部署在[napplana.net](napplana.net)
+
+- NapArona.NET
+
+  -  基于.NET的QQ官方机器人开发框架
+ 
+  -  短期内还没做
